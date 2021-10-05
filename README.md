@@ -18,5 +18,5 @@ The distribution of sentiments seem to be more heavilty weighted towards positiv
 
 ### Number of Words per Tweet
 
-<img src="nlp_images/words_in_tweet.png" width="800" height="370" data-rotate="90"/>
+<img src="nlp_images/words_in_tweet1.png" width="800" height="370" data-rotate="90"/>
 
