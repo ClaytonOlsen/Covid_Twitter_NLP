@@ -13,3 +13,4 @@ The data has five category labels, but I will be shrinking extremely positive an
 #### Combined Category Data Set
 <img src="nlp_images/train:test_sentiments_3.png" width="600" height="370" data-rotate="90"/>
 
+The distribution is
