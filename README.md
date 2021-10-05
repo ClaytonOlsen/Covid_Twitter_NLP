@@ -11,6 +11,6 @@ The data has five category labels, but I will be shrinking extremely positive an
 <img src="nlp_images/original_data_sentiments1.png" width="450" height="370" data-rotate="90"/>
 
 #### Combined Category Data Set
-<img src="nlp_images/train:test_sentiments_3.png" width="900" height="370" data-rotate="90"/>
+<img src="nlp_images/train:test_sentiments_3.png" width="800" height="370" data-rotate="90"/>
 
 The distribution is
