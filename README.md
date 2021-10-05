@@ -7,5 +7,5 @@ The twitter dataset comes from [kaggle](https://www.kaggle.com/datatattle/covid-
 
 The data has five category labels, but I will be shrinking extremely positive and postive into one "positive" variable, as well as, negative and extremely negative into one "negative category. The distribution of labels is displayed below.
 
-<img src="nlp_images/original_data_sentiments.png" width="600" height="400" data-rotate="90"/>
+<img src="nlp_images/original_data_sentiments.png" width="450" height="375" data-rotate="90"/>
 
