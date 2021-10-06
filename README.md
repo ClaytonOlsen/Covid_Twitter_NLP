@@ -31,7 +31,14 @@ The neutral tweets tend to be less lengthy than the positive and negative tweets
 <img src="nlp_images/most_common_hashtags.png" width="800" height="370" data-rotate="90"/>
 
 
+## Data Preprocessing
 
+#### 1) Removing stopwords and capitalizations
+
+    -Stopwords contain low-level information from our text, so we remove them to give more focus to the important information. The stop words come from the nltk library in python that contain words like ‘ourselves’, ‘hers’, ‘between’, ‘yourself’, ‘but’, ‘again’, etc.
+
+#### 2) Removing HTML links, url links, and punctuation
+#### 3) Removing mentions, hashtags, and empty white space
 
 
 
