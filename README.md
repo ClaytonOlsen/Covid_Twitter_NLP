@@ -35,11 +35,16 @@ The neutral tweets tend to be less lengthy than the positive and negative tweets
 
 #### 1) Removing stopwords and capitalizations
 
-    - Stopwords contain low-level information from our text, so we remove them to give more focus to the important information. The stop words come from the nltk library in python that contain words like ‘ourselves’, ‘hers’, ‘between’, ‘yourself’, ‘but’, ‘again’, etc.
+- Stopwords contain low-level information from our text, so we remove them to give more focus to the important information. The stop words come from the nltk library in python that contain words like ‘ourselves’, ‘hers’, ‘between’, ‘yourself’, ‘but’, ‘again’, etc.
 
 #### 2) Removing HTML links, url links, and punctuation
 #### 3) Removing mentions, hashtags, and empty white space
 
+#### Original Tweet:
+    - We're here to provide a safe shopping experience for our customers and a healthy environment for our associates and community! Online orders can be placed here: https://t.co/dCSXHUj3U0 #jlmco #jlmcobrand #coronapocolypse #coronavirus #CoronavirusOutbreak  #COVID19 #shoponline https://t.co/riNKwskeRS
+    
+#### After Changes:
+    - were here to provide a safe shopping experience for our customers and a healthy environment for our associates and community online orders can be placed here jlmco jlmcobrand coronapocolypse coronavirus coronavirusoutbreak covid19 shoponline
 
 
 
