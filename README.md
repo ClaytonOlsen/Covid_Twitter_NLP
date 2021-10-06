@@ -41,13 +41,16 @@ The neutral tweets tend to be less lengthy than the positive and negative tweets
 #### 3) Removing mentions, hashtags, and empty white space
 
 #### Original Tweet:
-    - We're here to provide a safe shopping experience for our customers and a healthy environment for our associates and community! Online orders can be placed here: https://t.co/dCSXHUj3U0 #jlmco #jlmcobrand #coronapocolypse #coronavirus #CoronavirusOutbreak  #COVID19 #shoponline https://t.co/riNKwskeRS
+    - We're here to provide a safe shopping experience for our customers and a healthy environment for our associates and community! 
+    Online orders can be placed here: https://t.co/dCSXHUj3U0 #jlmco #jlmcobrand #coronapocolypse #coronavirus #CoronavirusOutbreak  #COVID19 #shoponline https://t.co/riNKwskeRS
     
 #### After Changes:
     - were here to provide a safe shopping experience for our customers and a healthy environment for our associates and community online orders can be placed here jlmco jlmcobrand coronapocolypse coronavirus coronavirusoutbreak covid19 shoponline
 
 
+#### 4) Vectorizing Data
 
+I used TF IDF vectorizer
 
 
 
