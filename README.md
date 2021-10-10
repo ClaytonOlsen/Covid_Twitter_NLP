@@ -57,7 +57,7 @@ I used TF IDF vectorizer which tokenizes allowig us tp encode the text varaible 
 
 We fit random forest, xgboost, naive bayes, and linear support vector machine models for classification. The results are as follows:
 
-<img src="nlp_images/accuarcy_table.png" width="450" height="200" data-rotate="90"/>
+<img src="nlp_images/accuarcy_table.png" width="500" height="200" data-rotate="90"/>
 
 
 
