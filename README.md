@@ -50,7 +50,16 @@ The neutral tweets tend to be less lengthy than the positive and negative tweets
 
 #### 4) Vectorizing Data
 
-I used TF IDF vectorizer
+I used TF IDF vectorizer which tokenizes allowig us tp encode the text varaible of the tweets.
+
+
+## Models
+
+We fit random forest, xgboost, naive bayes, and linear support vector machine models for classification. The results are as follows:
+
+<img src="nlp_images/accuarcy_table.png" width="800" height="370" data-rotate="90"/>
+
+
 
 
 
