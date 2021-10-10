@@ -59,6 +59,8 @@ We fit random forest, xgboost, naive bayes, and linear support vector machine mo
 
 <img src="nlp_images/accuarcy_table.png" width="500" height="200" data-rotate="90"/>
 
+<img src="nlp_images/accuarcy_plot.png" width="500" height="200" data-rotate="90"/>
+
 
 
 
