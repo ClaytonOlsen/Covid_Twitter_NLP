@@ -61,11 +61,25 @@ We fit random forest, xgboost, naive bayes, and linear support vector machine mo
 
 <img src="nlp_images/accuarcy_plot.png" width="500" height="300" data-rotate="90"/>
 
+With the liner suspport vector classifier performing the best, we use it to make our predictive model.
+
+## LSVM Classifier
 
 
 
+| Model              | Precision         | Recall       | f1-score      | support |
+| --- | --- | --- | --- |
+| Neutral  | 0.81   | 0.80  | 0.81 | 1633 |
+| Positive | 0.68   | 0.64  | 0.66 | 619 |
+| Negative | 0.81   | 0.84  | 0.83 | 1546 |
+| --- | --- | --- | --- |
+| Accuracy   |      |       | 0.79 | 3798 |
+| Macro Avg  | 0.77 | 0.76  | 0.77 | 3798 |
+| Weighted Avg| 0.79| 0.79  | 0.79 | 3798 |
 
 
+ 
+<img src="nlp_images/confusion_matrix_svm.png" width="500" height="300" data-rotate="90"/>
 
 
 
